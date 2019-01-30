@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUP.CSharp.Plugins", "NUP.CSharp.Plugins.csproj", "{22A70D92-24D4-7AAC-AB27-F57AEB1BE1FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUP.CSharp", "NUP.CSharp.csproj", "{02F00AE7-F248-DF20-53A1-9FFB020A23A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUP.CSharp.Editor", "NUP.CSharp.Editor.csproj", "{657D7BE2-9303-4215-BCE1-DCB9326BD7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A70D92-24D4-7AAC-AB27-F57AEB1BE1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A70D92-24D4-7AAC-AB27-F57AEB1BE1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A70D92-24D4-7AAC-AB27-F57AEB1BE1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A70D92-24D4-7AAC-AB27-F57AEB1BE1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F00AE7-F248-DF20-53A1-9FFB020A23A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F00AE7-F248-DF20-53A1-9FFB020A23A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F00AE7-F248-DF20-53A1-9FFB020A23A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F00AE7-F248-DF20-53A1-9FFB020A23A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657D7BE2-9303-4215-BCE1-DCB9326BD7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657D7BE2-9303-4215-BCE1-DCB9326BD7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657D7BE2-9303-4215-BCE1-DCB9326BD7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657D7BE2-9303-4215-BCE1-DCB9326BD7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
